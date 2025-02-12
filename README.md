@@ -47,6 +47,3 @@ This project successfully recommends movies based on metadata. Future improvemen
 ## Contribution
 
 Contributions are welcome! Feel free to fork this repository, open issues, or submit pull requests.
-```
-
-This is **fully formatted for GitHub** Let me know if you need any modifications! 🚀
