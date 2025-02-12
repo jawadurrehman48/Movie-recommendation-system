@@ -1,3 +1,6 @@
+Here is your complete **README.md** file. You can copy and paste this into your project:  
+
+```md
 # Movie Recommendation System
 
 This project applies **AI techniques** to recommend movies based on similarity in genres, keywords, cast, and crew. It implements **TF-IDF** and **Cosine Similarity** for recommendation.
@@ -21,19 +24,19 @@ This project applies **AI techniques** to recommend movies based on similarity i
 ## Installation & Usage
 
 1. Clone the repository:
-
+   ```bash
    git clone https://github.com/yourusername/Movie-Recommendation-System.git
-   
+   ```
 
 2. Navigate to the project directory:
-   
+   ```bash
    cd Movie-Recommendation-System
-   
+   ```
 
 3. Install dependencies:
-   
+   ```bash
    pip install -r requirements.txt
-   
+   ```
 
 4. Run the recommendation script:
    ```bash
